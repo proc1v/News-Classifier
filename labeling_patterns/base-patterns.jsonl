@@ -1,0 +1,206 @@
+{"label": "HARASSMENT", "pattern": [{"lower": "abused"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "obscenity"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "defamation"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "tracking"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "harassment"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "harassing"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "harass"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "harassed"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "stalking"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "bully"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "bullied"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "intimidation"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "peeping"}, {"lower": "tom"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "insult"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "intent"}, {"lower": "to"}, {"lower": "outrage"}, {"lower": "her"}, {"lower": "modesty"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "unlawful"}, {"lower": "exposure"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "accosting"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "intimidating"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "intimidate"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "intimidated"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "obscene"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "obscene"}, {"lower": "phone"}, {"lower": "calls"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "Obscene"}, {"lower": "phone"}, {"lower": "call"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "armed"}, {"lower": "disturb"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "hurled"}, {"lower": "racist"}, {"lower": "slurs"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "coercion"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "cursing"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "threatened"}, {"lower": "to"}, {"lower": "kill"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "threatening"}, {"lower": "to"}, {"lower": "kill"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "groping"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "groped"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "intimidation"}, {"lower": "with"}, {"lower": "a"}, {"lower": "dangerous"}, {"lower": "weapon"}]}
+{"label": "HARASSMENT", "pattern": [{"lower": "threatening"}, {"lower": "to"}, {"lower": "shoot"}]}
+{"label": "THEFT", "pattern": [{"lower": "theft"}]}
+{"label": "THEFT", "pattern": [{"lower": "industrial"}, {"lower": "espionage"}]}
+{"label": "THEFT", "pattern": [{"lower": "burglary"}]}
+{"label": "THEFT", "pattern": [{"lower": "burglaries"}]}
+{"label": "THEFT", "pattern": [{"lower": "burglar"}]}
+{"label": "THEFT", "pattern": [{"lower": "steal"}]}
+{"label": "THEFT", "pattern": [{"lower": "stole"}]}
+{"label": "THEFT", "pattern": [{"lower": "shoplifting"}]}
+{"label": "THEFT", "pattern": [{"lower": "larceny"}]}
+{"label": "THEFT", "pattern": [{"lower": "pocket-picking"}]}
+{"label": "THEFT", "pattern": [{"lower": "obtaining"}, {"lower": "a"}, {"lower": "service"}, {"lower": "without"}, {"lower": "payment"}]}
+{"label": "THEFT", "pattern": [{"lower": "obtained"}, {"lower": "a"}, {"lower": "service"}, {"lower": "without"}, {"lower": "payment"}]}
+{"label": "THEFT", "pattern": [{"lower": "false"}, {"lower": "pretenses"}]}
+{"label": "THEFT", "pattern": [{"lower": "swindle"}]}
+{"label": "THEFT", "pattern": [{"lower": "confidence"}, {"lower": "game"}]}
+{"label": "THEFT", "pattern": [{"lower": "making"}, {"lower": "off"}, {"lower": "from"}, {"lower": "a"}, {"lower": "hotel"}]}
+{"label": "THEFT", "pattern": [{"lower": "made"}, {"lower": "off"}, {"lower": "from"}, {"lower": "a"}, {"lower": "hotel"}]}
+{"label": "THEFT", "pattern": [{"lower": "restaurant"}, {"lower": "without"}, {"lower": "payment"}]}
+{"label": "THEFT", "pattern": [{"lower": "bar"}, {"lower": "without"}, {"lower": "payment"}]}
+{"label": "THEFT", "pattern": [{"lower": "pickpocketing"}]}
+{"label": "THEFT", "pattern": [{"lower": "pickpocket"}]}
+{"label": "THEFT", "pattern": [{"lower": "shop-lifting"}]}
+{"label": "THEFT", "pattern": [{"lower": "shoplift"}]}
+{"label": "THEFT", "pattern": [{"lower": "shoplifted"}]}
+{"label": "ROBBERY", "pattern": [{"lower": "snatching"}]}
+{"label": "ROBBERY", "pattern": [{"lower": "purse-snatching"}]}
+{"label": "ROBBERY", "pattern": [{"lower": "robbery"}]}
+{"label": "ROBBERY", "pattern": [{"lower": "robbers"}]}
+{"label": "ROBBERY", "pattern": [{"lower": "robberies"}]}
+{"label": "ROBBERY", "pattern": [{"lower": "robbing"}]}
+{"label": "ROBBERY", "pattern": [{"lower": "robber"}]}
+{"label": "ROBBERY", "pattern": [{"lower": "robbed"}]}
+{"label": "ROBBERY", "pattern": [{"lower": "housebreaking"}]}
+{"label": "ROBBERY", "pattern": [{"lower": "break"}, {"lower": "and"}, {"lower": "enter"}]}
+{"label": "ROBBERY", "pattern": [{"lower": "violent"}, {"lower": "robbery"}]}
+{"label": "ROBBERY", "pattern": [{"lower": "snatch"}]}
+{"label": "ROBBERY", "pattern": [{"lower": "snatched"}]}
+{"label": "ROBBERY", "pattern": [{"lower": "mugging"}]}
+{"label": "ROBBERY", "pattern": [{"lower": "armed"}, {"lower": "robbery"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "carjacking"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "carjackings"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "hijacking"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "hijackings"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "hijacked"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "hijack"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "conveyance"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "vehicle"}, {"lower": "larceny"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "vehicle"}, {"lower": "theft"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "vehicle"}, {"lower": "grand"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "gta"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "car"}, {"lower": "jack"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "car"}, {"lower": "theft"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "car"}, {"lower": "was"}, {"lower": "stolen"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "carjacker"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "carjackers"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "carjack"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "carjacked"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "steal"}, {"lower": "a"}, {"lower": "car"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "stole"}, {"lower": "a"}, {"lower": "car"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "steal"}, {"lower": "car"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "stole"}, {"lower": "car"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "stole"}, {"lower": "a"}, {"lower": "vehicle"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "stole"}, {"lower": "another"}, {"lower": "vehicle"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "stole"}, {"lower": "a"}, {"lower": "Chevy"}, {"lower": "truck"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "stole"}, {"lower": "another"}, {"lower": "motor"}, {"lower": "vehicle"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "armed"}, {"lower": "carjacking"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "stole"}, {"lower": "her"}, {"lower": "car"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "stole"}, {"lower": "his"}, {"lower": "car"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "stole"}, {"lower": "their"}, {"lower": "car"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "theft"}, {"lower": "of"}, {"lower": "a"}, {"lower": "motor"}, {"lower": "vehicle"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "stole"}, {"lower": "a"}, {"lower": "truck"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "grand"}, {"lower": "theft"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "grand"}, {"lower": "theft"}, {"lower": "auto"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "stole"}, {"lower": "his"}, {"lower": "vehicle"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "commandeered"}, {"lower": "the"}, {"lower": "vehicle"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "motor"}, {"lower": "vehicle"}, {"lower": "theft"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "vehicle"}, {"lower": "was"}, {"lower": "stolen"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "Vehicle"}, {"lower": "was"}, {"lower": "burglarized"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "stolen"}, {"lower": "van"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "van"}, {"lower": "robbers"}]}
+{"label": "AUTO_THEFT", "pattern": [{"lower": "stolen"}, {"lower": "pickup"}, {"lower": "truck"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "assault"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "aggravated"}, {"lower": "assault"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "assaulted"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "weapons"}, {"lower": "offense"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "hit-and-run"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "hit"}, {"lower": "and"}, {"lower": "run"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "strangulation"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "obstruct"}, {"lower": "breath"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "serious"}, {"lower": "injury"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "injury"}, {"lower": "to"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "injured"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "knifing"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "stabbing"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "stab"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "poison"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "attempt"}, {"lower": "to"}, {"lower": "murder"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "attempted"}, {"lower": "murder"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "hurt"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "hurted"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "wounding"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "wound"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "wounded"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "attempts"}, {"lower": "or"}, {"lower": "threats"}, {"lower": "to"}, {"lower": "murder"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "weapons"}, {"lower": "and"}, {"lower": "explosives"}, {"lower": "offenses"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "aggressive"}, {"lower": "panhandling"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "affray"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "shooting"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "attempted"}, {"lower": "homicide"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "bodily"}, {"lower": "harm"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "grievous"}, {"lower": "bodily"}, {"lower": "harm"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "simply"}, {"lower": "bodily"}, {"lower": "harm"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "female"}, {"lower": "genital"}, {"lower": "mutilation"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "endangering"}, {"lower": "the"}, {"lower": "life"}, {"lower": "or"}, {"lower": "health"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "endangering"}, {"lower": "the"}, {"lower": "welfare"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "participation"}, {"lower": "brawl"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "participation"}, {"lower": "attack"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "representations"}, {"lower": "of"}, {"lower": "acts"}, {"lower": "of"}, {"lower": "violence"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "against"}, {"lower": "humanity"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "endangering"}, {"lower": "public"}, {"lower": "safety"}, {"lower": "with"}, {"lower": "weapons"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "crimes"}, {"lower": "against"}, {"lower": "persons"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "an"}, {"lower": "offense"}, {"lower": "against"}, {"lower": "a"}, {"lower": "person"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "offensive"}, {"lower": "weapon"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "armed"}, {"lower": "dispute"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "abduction"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "violently"}, {"lower": "attacked"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "knife"}, {"lower": "wounds"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "gunshot"}, {"lower": "wounds"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "struck"}, {"lower": "him"}, {"lower": "multiple"}, {"lower": "times"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "stab"}, {"lower": "wound"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "brutally"}, {"lower": "beat"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "was"}, {"lower": "bound"}, {"lower": "with"}, {"lower": "duct"}, {"lower": "tape"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "were"}, {"lower": "bound"}, {"lower": "with"}, {"lower": "duct"}, {"lower": "tape"}]}
+{"label": "ASSAULT", "pattern": [{"lower": "strangled"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "murder"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "assassination"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "homicide"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "lynching"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "manslaughter"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "genocide"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "kill"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "killed"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "dowry"}, {"lower": "death"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "death"}, {"lower": "investigation"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "fatally"}, {"lower": "shot"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "died"}, {"lower": "after"}, {"lower": "shots"}, {"lower": "fired"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "died"}, {"lower": "after"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "shot"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "shooting"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "shots"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "opened"}, {"lower": "fire"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "gunfire"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "stabbed"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "slaying"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "massacre"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "died"}, {"lower": "of"}, {"lower": "a"}, {"lower": "single"}, {"lower": "gunshot"}, {"lower": "wound"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "died"}, {"lower": "of"}, {"lower": "multiple"}, {"lower": "gunshot"}, {"lower": "wounds"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "deceased"}, {"lower": "victims"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "were"}, {"lower": "found"}, {"lower": "dead"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "investigated"}, {"lower": "as"}, {"lower": "homicides"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "person"}, {"lower": "is"}, {"lower": "dead"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "fatal"}, {"lower": "head"}, {"lower": "injury"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "declared"}, {"lower": "dead"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "shooting"}, {"lower": "death"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "was"}, {"lower": "shot"}, {"lower": "to"}, {"lower": "death"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "were"}, {"lower": "shot"}, {"lower": "to"}, {"lower": "death"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "did"}, {"lower": "not"}, {"lower": "survive"}, {"lower": "the"}, {"lower": "shooting"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "stabbed"}, {"lower": "to"}, {"lower": "death"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "deadly"}, {"lower": "shooting"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "dismembered"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "concealment"}, {"lower": "of"}, {"lower": "a"}, {"lower": "body"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "reported"}, {"lower": "dead"}, {"lower": "by"}, {"lower": "gunshot"}, {"lower": "wound"}]}
+{"label": "HOMICIDE", "pattern": [{"lower": "fatal"}, {"lower": "stabbings"}]}

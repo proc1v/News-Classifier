@@ -1,0 +1,832 @@
+{"label": "RELEVANT", "pattern": [{"lower": "armed"}, {"lower": "disturb"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "bullied"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "bully"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "coercion"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "communication"}, {"lower": "threats"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "criminal"}, {"lower": "threats"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "cursed"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "cursing"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "cyberstalking"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "defamation"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "ethnic"}, {"lower": "intimidation"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "harassed"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "harassing"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "harassing"}, {"lower": "communications"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "harassmen"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "harassment"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "harrassing"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "harrassment"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "hate"}, {"lower": "crime"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "hurled"}, {"lower": "racist"}, {"lower": "slurs"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "insult"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "insulted"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "insulting"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "intimidate"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "intimidated"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "intimidating"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "intimidation"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "intimidation"}, {"lower": "premise"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "intimidation"}, {"lower": "with"}, {"lower": "a"}, {"lower": "dangerous"}, {"lower": "weapon"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "menacing"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "obscene"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "obscene"}, {"lower": "phone"}, {"lower": "call"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "obscene"}, {"lower": "phone"}, {"lower": "calls"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "obscenity"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "obsenity"}, {"lower": "exposing"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "peeping"}, {"lower": "tom"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "racial"}, {"lower": "slurs"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "racially"}, {"lower": "motivated"}, {"lower": "attack"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "racist"}, {"lower": "attack"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "racist"}, {"lower": "slur"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "racist"}, {"lower": "slurs"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "sending"}, {"lower": "threatening"}, {"lower": "text"}, {"lower": "and"}, {"lower": "video"}, {"lower": "messages"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stalking"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "telephone"}, {"lower": "harassment"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "threat"}, {"lower": "weapon"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "threatening"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "threatened"}, {"lower": "to"}, {"lower": "kill"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "threatened"}, {"lower": "to"}, {"lower": "shootabused"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "threatening"}, {"lower": "phone"}, {"lower": "calls"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "threatening"}, {"lower": "text"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "threatening"}, {"lower": "to"}, {"lower": "kill"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "threatening"}, {"lower": "to"}, {"lower": "shoot"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "tracking"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "unlawful"}, {"lower": "exposure"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "verbal"}, {"lower": "threats"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "alarm"}, {"lower": "burglary"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "bar"}, {"lower": "without"}, {"lower": "payment"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "burglar"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "burglaries"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "burglary"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "burglary"}, {"lower": "alarm"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "larceny"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "larnecy"}, {"lower": "from"}, {"lower": "motor"}, {"lower": "vehicle"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "pocket"}, {"orth": "-"}, {"lower": "picking"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "larnecy"}, {"lower": "shoplifting"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "made"}, {"lower": "off"}, {"lower": "from"}, {"lower": "a"}, {"lower": "hotel"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "making"}, {"lower": "off"}, {"lower": "from"}, {"lower": "a"}, {"lower": "hotel"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "obtained"}, {"lower": "a"}, {"lower": "service"}, {"lower": "without"}, {"lower": "payment"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "obtaining"}, {"lower": "a"}, {"lower": "service"}, {"lower": "without"}, {"lower": "payment"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "pickpocket"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "pickpocketing"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "restaurant"}, {"lower": "without"}, {"lower": "payment"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "shop"}, {"orth": "-"}, {"lower": "lifting"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "shoplift"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "shoplifted"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "shoplifting"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "steal"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stealing"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stole"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "theft"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "theft"}, {"lower": "from"}, {"lower": "motor"}, {"lower": "vehicle"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "theft"}, {"lower": "from"}, {"lower": "person"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "theft"}, {"lower": "investigation"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "theft"}, {"lower": "report"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "armed"}, {"lower": "robbery"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "break"}, {"lower": "and"}, {"lower": "enter"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "break"}, {"orth": "-"}, {"lower": "and"}, {"orth": "-"}, {"lower": "enter"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "breaking"}, {"lower": "entering"}, {"lower": "forcemugging"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "holdup"}, {"lower": "robbery"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "home"}, {"lower": "invasion"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "housebreaking"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "mugged"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "purse"}, {"orth": "-"}, {"lower": "snatching"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "ransacked"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "ransacking"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "robbed"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "robber"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "robberies"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "robbers"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "robbery"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "robbery"}, {"lower": "commercial"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "robbery"}, {"lower": "premise"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "robbing"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "robery"}, {"lower": "armed"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "robery"}, {"lower": "unarmed"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "snatch"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "snatched"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "snatching"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "violent"}, {"lower": "robbery"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "armed"}, {"lower": "carjacking"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "auto"}, {"lower": "burglary"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "auto"}, {"lower": "theft"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "bicycle"}, {"lower": "larnecy"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "bicycle"}, {"lower": "theft"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "burglary"}, {"lower": "auto"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "car"}, {"lower": "jack"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "car"}, {"lower": "theft"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "car"}, {"lower": "was"}, {"lower": "stolen"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "car"}, {"orth": "-"}, {"lower": "theft"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "carjack"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "carjacked"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "carjacker"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "carjackers"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "carjacking"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "carjackings"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "commandeered"}, {"lower": "the"}, {"lower": "vehicle"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "grand"}, {"lower": "larceny"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "grand"}, {"lower": "larceny"}, {"lower": "bicycle"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "grand"}, {"lower": "theft"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "grand"}, {"lower": "theft"}, {"lower": "auto"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "gta"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "hijack"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "hijacked"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "hijacking"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "hijackings"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "motor"}, {"lower": "vehicle"}, {"lower": "theft"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "steal"}, {"lower": "a"}, {"lower": "car"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "steal"}, {"lower": "car"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stole"}, {"lower": "a"}, {"lower": "chevy"}, {"lower": "truck"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stole"}, {"lower": "a"}, {"lower": "car"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stole"}, {"lower": "a"}, {"lower": "truck"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stole"}, {"lower": "a"}, {"lower": "vehicle"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stole"}, {"lower": "another"}, {"lower": "motor"}, {"lower": "vehicle"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stole"}, {"lower": "another"}, {"lower": "vehicle"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stole"}, {"lower": "car"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stole"}, {"lower": "her"}, {"lower": "car"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stole"}, {"lower": "his"}, {"lower": "car"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stole"}, {"lower": "his"}, {"lower": "vehicle"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stole"}, {"lower": "their"}, {"lower": "car"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stolen"}, {"lower": "bicycle"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stolen"}, {"lower": "car"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stolen"}, {"lower": "motor"}, {"lower": "vehicle"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stolen"}, {"lower": "pickup"}, {"lower": "truck"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stolen"}, {"lower": "van"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stolen"}, {"lower": "vehicle"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "theft"}, {"lower": "motor"}, {"lower": "vehicle"}, {"lower": "parts"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "theft"}, {"lower": "of"}, {"lower": "a"}, {"lower": "motor"}, {"lower": "vehicle"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "theft"}, {"lower": "vehicle"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "van"}, {"lower": "robbers"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "vehicle"}, {"lower": "breackinstolen"}, {"lower": "vehicle"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "vehicle"}, {"lower": "break"}, {"orth": "-"}, {"lower": "in"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "vehicle"}, {"lower": "burglary"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "vehicle"}, {"lower": "crime"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "vehicle"}, {"lower": "grand"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "vehicle"}, {"lower": "larceny"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "vehicle"}, {"lower": "theft"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "vehicle"}, {"lower": "was"}, {"lower": "burglarized"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "vehicle"}, {"lower": "was"}, {"lower": "stolen"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "aggravated"}, {"lower": "assault"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "assault"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "assaulted"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "assaulting"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "attempt"}, {"lower": "to"}, {"lower": "murder"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "attempted"}, {"lower": "homicide"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "attempted"}, {"lower": "murder"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "attempts"}, {"lower": "or"}, {"lower": "threats"}, {"lower": "to"}, {"lower": "murder"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "beaten"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "beaten"}, {"lower": "to"}, {"lower": "unconsciousness"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "beating"}, {"lower": "a"}, {"lower": "man"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "beating"}, {"lower": "man"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "beating"}, {"lower": "men"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "beating"}, {"lower": "the"}, {"lower": "man"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "bodily"}, {"lower": "harm"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "brutally"}, {"lower": "beat"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "common"}, {"lower": "assault"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "grievous"}, {"lower": "bodily"}, {"lower": "harm"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "hit"}, {"lower": "and"}, {"lower": "kick"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "hurted"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "injured"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "injury"}, {"lower": "to"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "knife"}, {"lower": "wounds"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "knifing"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "serious"}, {"lower": "bodily"}, {"lower": "injury"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "serious"}, {"lower": "injury"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "simple"}, {"lower": "assault"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "simply"}, {"lower": "bodily"}, {"lower": "harm"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stab"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stab"}, {"lower": "wound"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stabbed"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stabbing"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "struck"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "violently"}, {"lower": "attacked"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "blackmail"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "extortio"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "extortion"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "extortion"}, {"lower": "blackmail"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "extortion"}, {"lower": "blackmail"}, {"lower": "premise"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "extortion"}, {"lower": "investigation"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "extortion"}, {"lower": "threats"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "abduct"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "abduct"}, {"lower": "a"}, {"lower": "newborn"}, {"lower": "baby"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "abduction"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "bound"}, {"lower": "with"}, {"lower": "duct"}, {"lower": "tape"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "held"}, {"lower": "hostage"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "kidnap"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "kidnapped"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "kidnapping"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "kidnapping"}, {"lower": "abduction"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "kidnapping"}, {"lower": "abduction"}, {"lower": "premise"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "kidnapping"}, {"lower": "neighbourhood"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "unlawful"}, {"lower": "imprisonment"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "unlawful"}, {"lower": "restraint"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "forcible"}, {"lower": "fondling"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "forcible"}, {"lower": "rape"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "forcible"}, {"lower": "sodomy"}, {"lower": "premise"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "lewd"}, {"lower": "conduct"}, {"lower": "incident"}, {"lower": "number"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "indecent"}, {"lower": "exposurelewdness"}, {"lower": "incident"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "masturbating"}, {"lower": "in"}, {"lower": "public"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "molested"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "molesting"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "rape"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "rape"}, {"lower": "force"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "restraining"}, {"lower": "order"}, {"lower": "violation"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "sex"}, {"lower": "abuse"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "sex"}, {"lower": "crime"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "sex"}, {"lower": "crimes"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "sex"}, {"lower": "crimes"}, {"lower": "abuse"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "sex"}, {"lower": "offences"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "sex"}, {"lower": "offender"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "sexoff"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "sexual"}, {"lower": "abuse"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "sexual"}, {"lower": "assault"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "sexual"}, {"lower": "battery"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "sexual"}, {"lower": "offender"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "sexually"}, {"lower": "assaulted"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "sexually"}, {"lower": "assaulting"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "soliciting"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "arson"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "criminal"}, {"lower": "damage"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "destruct"}, {"lower": "property"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "destruction"}, {"lower": "property"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "graffiti"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "malicious"}, {"lower": "mischief"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "property"}, {"lower": "damage"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "vandalism"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "buy"}, {"lower": "narcotics"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drug"}, {"lower": "deal"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drug"}, {"lower": "dealer"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drug"}, {"lower": "dealers"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drug"}, {"lower": "dealing"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drug"}, {"lower": "problem"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drug"}, {"lower": "violations"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drugs"}, {"lower": "dealer"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drugs"}, {"lower": "dealers"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drugs"}, {"lower": "dealing"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drugs"}, {"lower": "problem"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drugs"}, {"lower": "violations"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "import"}, {"lower": "narcotics"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "narcotics"}, {"lower": "manufacture"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "possess"}, {"lower": "narcotics"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "sell"}, {"lower": "narcotics"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "counterfeting"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "credit"}, {"lower": "card"}, {"lower": "abuse"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "credit"}, {"lower": "card"}, {"lower": "debit"}, {"lower": "abuse"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "credit"}, {"lower": "card"}, {"lower": "fraud"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "deceptive"}, {"lower": "practice"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "delayed"}, {"lower": "forgery"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "embezzlement"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "false"}, {"lower": "pretenses"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "false"}, {"lower": "swindle"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "false"}, {"lower": "use"}, {"lower": "anothers"}, {"lower": "identity"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "fare"}, {"lower": "evasion"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "financial"}, {"lower": "identity"}, {"lower": "theft"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "forgery"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "fraud"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "fraud"}, {"lower": "calls"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "fraud"}, {"lower": "credit"}, {"lower": "card"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "fraud"}, {"lower": "incident"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "identity"}, {"lower": "theft"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "impersonated"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "assisting"}, {"lower": "gambling"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "attemp"}, {"lower": "conspiracy"}, {"lower": "penalties"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "conspiracy"}, {"lower": "commit"}, {"lower": "crime"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "criminal"}, {"lower": "conspiracy"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "engaging"}, {"lower": "organized"}, {"lower": "criminal"}, {"lower": "activity"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "gang"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "gang"}, {"lower": "activity"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "gang"}, {"lower": "related"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "money"}, {"lower": "laundering"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "operating"}, {"lower": "gambling"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "organized"}, {"lower": "criminal"}, {"lower": "activity"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "promoting"}, {"lower": "gambling"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "street"}, {"lower": "gang"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "weapon"}, {"lower": "law"}, {"lower": "violations"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "assassination"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "concealment"}, {"lower": "of"}, {"lower": "a"}, {"lower": "body"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "deadly"}, {"lower": "shootingslaying"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "death"}, {"lower": "investigation"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "deceased"}, {"lower": "victims"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "declared"}, {"lower": "dead"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "did"}, {"lower": "not"}, {"lower": "survive"}, {"lower": "the"}, {"lower": "shooting"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "died"}, {"lower": "after"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "died"}, {"lower": "after"}, {"lower": "shots"}, {"lower": "fired"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "died"}, {"lower": "of"}, {"lower": "a"}, {"lower": "single"}, {"lower": "gunshot"}, {"lower": "wound"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "died"}, {"lower": "of"}, {"lower": "multiple"}, {"lower": "gunshot"}, {"lower": "wounds"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "dismembered"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "fatal"}, {"lower": "head"}, {"lower": "injury"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "fatal"}, {"lower": "stabbing"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "fatal"}, {"lower": "stabbings"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "fatally"}, {"lower": "shot"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "fatally"}, {"lower": "stabed"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "genocide"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "homicide"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "kill"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "killed"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "lynching"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "manslaughter"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "massacre"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "murder"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "mutilating"}, {"lower": "a"}, {"lower": "corpse"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "person"}, {"lower": "is"}, {"lower": "dead"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "reported"}, {"lower": "dead"}, {"lower": "by"}, {"lower": "gunshot"}, {"lower": "wound"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "shooting"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "shooting"}, {"lower": "death"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "shot"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "shot"}, {"lower": "dead"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "shots"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stabbed"}, {"lower": "to"}, {"lower": "death"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "suffocated"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "was"}, {"lower": "found"}, {"lower": "deadinvestigated"}, {"lower": "as"}, {"lower": "homicides"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "was"}, {"lower": "shot"}, {"lower": "to"}, {"lower": "death"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "were"}, {"lower": "found"}, {"lower": "dead"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "were"}, {"lower": "shot"}, {"lower": "to"}, {"lower": "death"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "bomb"}, {"lower": "threat"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "terrorist"}, {"lower": "threat"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "terrorist"}, {"lower": "threats"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "terroristic"}, {"lower": "threat"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "terroristic"}, {"lower": "threat"}, {"lower": "zone"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "terroristic"}, {"lower": "threatening"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "terroristic"}, {"lower": "threats"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "terrorizing"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "civil"}, {"lower": "disturbance"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "disorderly"}, {"lower": "conduct"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "disorderly"}, {"lower": "person"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "distubance"}, {"lower": "family"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "disturb"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "disturbance"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "disturbance"}, {"lower": "business"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "disturbance"}, {"lower": "neighbour"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "disturbing"}, {"lower": "peace"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "domestic"}, {"lower": "disturbance"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "loud"}, {"lower": "noise"}, {"lower": "disturbance"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "noise"}, {"lower": "complaint"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "noise"}, {"lower": "disturbance"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "noisy"}, {"lower": "party"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "public"}, {"lower": "disturbence"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "public"}, {"lower": "order"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "suspicious"}, {"lower": "activity"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "suspicious"}, {"lower": "circumstances"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "suspicious"}, {"lower": "event"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "suspicious"}, {"lower": "incident"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "suspicious"}, {"lower": "perso"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "suspicious"}, {"lower": "person"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "suspicious"}, {"lower": "priority"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "suspicious"}, {"lower": "situation"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "suspicious"}, {"lower": "subject"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "suspicious"}, {"lower": "vehicle"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "domestic"}, {"lower": "assault"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "domestic"}, {"lower": "battery"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "domestic"}, {"lower": "dispute"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "domestic"}, {"lower": "incident"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "domestic"}, {"lower": "progress"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "domestic"}, {"lower": "related"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "domestic"}, {"lower": "trouble"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "domestic"}, {"lower": "verbal"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "domestic"}, {"lower": "violence"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "family"}, {"lower": "dispute"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "family"}, {"lower": "fight"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "family"}, {"lower": "trouble"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "simple"}, {"lower": "assault"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "alcohol"}, {"lower": "violation"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "alcohol"}, {"lower": "violations"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "disturbance"}, {"lower": "firecrackers"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drug"}, {"lower": "case"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drug"}, {"lower": "equipment"}, {"lower": "violations"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drug"}, {"lower": "offence"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drug"}, {"lower": "offences"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drug"}, {"lower": "overdose"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drug"}, {"lower": "paraphernalia"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drug"}, {"lower": "violation"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drug"}, {"lower": "violations"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drugs"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drugs"}, {"lower": "case"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drugs"}, {"lower": "narcotics"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drugs"}, {"lower": "offence"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drugs"}, {"lower": "offences"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drugs"}, {"lower": "overdose"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drugs"}, {"lower": "violations"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "narcotic"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "narcotics"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "narcotics"}, {"lower": "offence"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "narcotics"}, {"lower": "offense"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "narcotics"}, {"lower": "place"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "paraphernalia"}, {"lower": "use"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "possesion"}, {"lower": "marijuana"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "possess"}, {"lower": "controlled"}, {"lower": "substance"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "accident"}, {"lower": "hit"}, {"lower": "run"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drag"}, {"lower": "racing"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "driving"}, {"lower": "impaired"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "driving"}, {"lower": "influence"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "driving"}, {"lower": "influence"}, {"lower": "premise"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "driving"}, {"lower": "intoxicated"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "driving"}, {"lower": "under"}, {"lower": "the"}, {"lower": "influence"}, {"lower": "of"}, {"lower": "alcohol"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "driving"}, {"lower": "violation"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drunk"}, {"lower": "drive"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drunk"}, {"lower": "driver"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "drunk"}, {"lower": "driving"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "dui"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "dui"}, {"lower": "alcohol"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "hit"}, {"lower": "and"}, {"lower": "run"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "hit"}, {"lower": "run"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "hit"}, {"lower": "run"}, {"lower": "collision"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "hit"}, {"lower": "run"}, {"lower": "property"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "hit"}, {"orth": "-"}, {"lower": "and"}, {"orth": "-"}, {"lower": "run"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "impaired"}, {"lower": "driver"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "impaired"}, {"lower": "driving"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "intoxicated"}, {"lower": "driver"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "motor"}, {"lower": "vehicle"}, {"lower": "crash"}, {"lower": "accident"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "motor"}, {"lower": "vehicle"}, {"lower": "violation"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "parking"}, {"lower": "violation"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "ran"}, {"lower": "a"}, {"lower": "red"}, {"lower": "light"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "ran"}, {"lower": "red"}, {"lower": "light"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "reckless"}, {"lower": "driver"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "reckless"}, {"lower": "driving"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "run"}, {"lower": "a"}, {"lower": "red"}, {"lower": "light"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "run"}, {"lower": "red"}, {"lower": "light"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "street"}, {"lower": "race"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "street"}, {"lower": "races"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "traffic"}, {"lower": "offense"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "traffic"}, {"orth": "-"}, {"lower": "moving"}, {"lower": "violations"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "trespassing"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "trespass"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "trespasser"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "alarm"}, {"lower": "intrusion"}, {"lower": "incident"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "intrusion"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "armed"}, {"lower": "person"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "brandishing"}, {"lower": "weapon"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "discharging"}, {"lower": "firearm"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "firearm"}, {"orth": "'s"}, {"lower": "serial"}, {"lower": "number"}, {"lower": "was"}, {"lower": "obliterated"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "illegally"}, {"lower": "possessed"}, {"lower": "assault"}, {"lower": "rifle"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "illegally"}, {"lower": "possessed"}, {"lower": "gun"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "illegally"}, {"lower": "possessed"}, {"lower": "rifle"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "possession"}, {"lower": "weapons"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "serial"}, {"lower": "number"}, {"lower": "was"}, {"lower": "obliterated"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "shooting"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "shots"}, {"lower": "fire"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "shots"}, {"lower": "fired"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "shots"}, {"lower": "heard"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "shotspotter"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "sound"}, {"lower": "gunshots"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "weapon"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "weapon"}, {"lower": "law"}, {"lower": "violations"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "weapons"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "court"}, {"lower": "jury"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "court"}, {"lower": "jury"}, {"lower": "found"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "district"}, {"lower": "court"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "presidential"}, {"lower": "records"}, {"lower": "act"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "supreme"}, {"lower": "court"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "supreme"}, {"lower": "court"}, {"lower": "of"}, {"lower": "the"}, {"lower": "united"}, {"lower": "states"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"orth": "u.s."}, {"lower": "district"}, {"lower": "court"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"orth": "u.s."}, {"lower": "supreme"}, {"lower": "court"}, {"lower": "decision"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "us"}, {"lower": "department"}, {"lower": "of"}, {"lower": "justice"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "acting"}, {"lower": "on"}, {"lower": "a"}, {"lower": "request"}, {"lower": "from"}, {"lower": "prosecutors"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "allegation"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "allegations"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "announced"}, {"lower": "indictments"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "awaits"}, {"lower": "extradition"}, {"lower": "to"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "according"}, {"lower": "to"}, {"lower": "an"}, {"lower": "affidavit"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "affidavit"}, {"lower": "states"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "being"}, {"lower": "held"}, {"lower": "on"}, {"lower": "a"}, {"lower": "fugitive"}, {"lower": "from"}, {"lower": "justice"}, {"lower": "warrant"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "ustice"}, {"lower": "warrant"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "warrants"}, {"lower": "for"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "closely"}, {"lower": "supervised"}, {"lower": "probation"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "convicted"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "court"}, {"lower": "imposed"}, {"lower": "curfew"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "court"}, {"orth": "-"}, {"lower": "imposed"}, {"lower": "curfew"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "charges"}, {"lower": "upgraded"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "charge"}, {"lower": "upgradeddeath"}, {"lower": "by"}, {"lower": "lethal"}, {"lower": "injection"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "deferred"}, {"lower": "sentence"}, {"lower": "for"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "definition"}, {"lower": "of"}, {"lower": "justified"}, {"lower": "homicide"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "denied"}, {"lower": "parole"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "defendants"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "defendant"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "ethics"}, {"lower": "complaint"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "investigation"}, {"lower": "is"}, {"lower": "underway"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "execution"}, {"lower": "of"}, {"lower": "a"}, {"lower": "death"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "extradicted"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "federal"}, {"lower": "judge"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "filed"}, {"lower": "an"}, {"lower": "ethics"}, {"lower": "complaint"}, {"lower": "against"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "federal"}, {"lower": "arrest"}, {"lower": "warrant"}, {"lower": "was"}, {"lower": "issued"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "guilty"}, {"lower": "pleas"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "has"}, {"lower": "been"}, {"lower": "denied"}, {"lower": "parole"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "has"}, {"lower": "been"}, {"lower": "extradited"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "has"}, {"lower": "been"}, {"lower": "found"}, {"lower": "guilty"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "have"}, {"lower": "been"}, {"lower": "found"}, {"lower": "guilty"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "introduced"}, {"lower": "a"}, {"lower": "resolution"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "judge"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "judge"}, {"lower": "has"}, {"lower": "denied"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "judge"}, {"lower": "prohibited"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "judge"}, {"orth": "'s"}, {"lower": "sentence"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "judges"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "judges"}, {"lower": "have"}, {"lower": "denied"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "juries"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "jury"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "jury"}, {"lower": "ruled"}, {"lower": "in"}, {"lower": "favour"}, {"lower": "of"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "juvenile"}, {"lower": "petition"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "juvenile"}, {"lower": "petitions"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "lawsuit"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "lawsuits"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "life"}, {"lower": "sentence"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "mistrial"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "next"}, {"lower": "hearing"}, {"lower": "is"}, {"lower": "set"}, {"lower": "for"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "no"}, {"lower": "unsupervised"}, {"lower": "contact"}, {"lower": "with"}, {"lower": "a"}, {"lower": "child"}, {"lower": "under"}, {"orth": "18"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "not"}, {"lower": "guilty"}, {"lower": "pleas"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "opportunity"}, {"lower": "for"}, {"lower": "parole"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "paroled"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "petition"}, {"lower": "filed"}, {"lower": "for"}, {"lower": "voluntary"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "pleaded"}, {"lower": "guilty"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "pleaded"}, {"lower": "guilty"}, {"lower": "before"}, {"orth": "u.s."}, {"lower": "district"}, {"lower": "court"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "pleading"}, {"lower": "guilty"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "probation"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "probations"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "prosecutor"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "prosecutors"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "schedule"}, {"lower": "to"}, {"lower": "be"}, {"lower": "killed"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "scheduled"}, {"lower": "to"}, {"lower": "be"}, {"lower": "killed"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "scheduled"}, {"lower": "to"}, {"lower": "be"}, {"lower": "put"}, {"lower": "to"}, {"lower": "death"}, {"lower": "by"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "sentenced"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "sentenced"}, {"lower": "to"}, {"lower": "life"}, {"lower": "in"}, {"lower": "prison"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "settle"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "settlement"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "special"}, {"lower": "grand"}, {"lower": "jury"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "sued"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "suspended"}, {"lower": "sentence"}, {"lower": "for"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "subpoenas"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "subpoena"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "testified"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "the"}, {"lower": "court"}, {"lower": "entered"}, {"lower": "not"}, {"lower": "guilty"}, {"lower": "pleas"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "trial"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "trial"}, {"lower": "began"}, {"lower": "in"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "trials"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "verdict"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "was"}, {"lower": "dismissed"}, {"lower": "against"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "was"}, {"lower": "extradicted"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "was"}, {"lower": "extradited"}, {"lower": "back"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "was"}, {"lower": "justified"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "were"}, {"lower": "extradicted"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "were"}, {"lower": "extradicted"}, {"lower": "back"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "were"}, {"lower": "justified"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "with"}, {"lower": "conditions"}, {"lower": "of"}, {"lower": "release"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "wanted"}, {"lower": "in"}, {"lower": "connection"}, {"lower": "to"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "traffic"}, {"lower": "crash"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "car"}, {"lower": "accident"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "car"}, {"lower": "crashed"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "truck"}, {"lower": "crashed"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "crash"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "crashed"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"orth": "10"}, {"orth": "-"}, {"lower": "year"}, {"lower": "average"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "anti"}, {"orth": "-"}, {"lower": "defamation"}, {"lower": "league"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "motor"}, {"lower": "vehicle"}, {"lower": "theft"}, {"lower": "is"}, {"lower": "up"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "police"}, {"lower": "department"}, {"lower": "homicide"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "alarming"}, {"lower": "rate"}, {"lower": "of"}, {"lower": "carjackings"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "annual"}, {"lower": "death"}, {"lower": "rates"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "arrests"}, {"lower": "each"}, {"lower": "year"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "based"}, {"lower": "on"}, {"lower": "provisional"}, {"lower": "data"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "citing"}, {"lower": "a"}, {"lower": "rise"}, {"lower": "in"}, {"lower": "gun"}, {"lower": "related"}, {"lower": "crimes"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "crime"}, {"lower": "index"}, {"lower": "rate"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "crime"}, {"lower": "rate"}, {"lower": "per"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "crime"}, {"lower": "trends"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "homicide"}, {"lower": "unit"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "lower"}, {"lower": "crime"}, {"lower": "index"}, {"lower": "rate"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "lower"}, {"lower": "property"}, {"lower": "crime"}, {"lower": "index"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "number"}, {"lower": "of"}, {"lower": "crimes"}, {"lower": "per"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "number"}, {"lower": "of"}, {"lower": "crimes"}, {"lower": "per"}, {"orth": "1,000"}, {"lower": "people"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "number"}, {"lower": "of"}, {"lower": "crimes"}, {"lower": "per"}, {"orth": "1000"}, {"lower": "people"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "one"}, {"orth": "-"}, {"orth": "in-10"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "one"}, {"orth": "-"}, {"orth": "in-10"}, {"lower": "female"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "over"}, {"orth": "2"}, {"lower": "million"}, {"lower": "kids"}, {"lower": "aged"}, {"orth": "12"}, {"lower": "to"}, {"orth": "17"}, {"lower": "admitted"}, {"lower": "to"}, {"lower": "using"}, {"lower": "drugs"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "overall"}, {"lower": "theft"}, {"lower": "is"}, {"lower": "up"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "police"}, {"lower": "robbery"}, {"orth": "/"}, {"lower": "homicide"}, {"lower": "detectives"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "property"}, {"lower": "crime"}, {"lower": "index"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "provisional"}, {"lower": "data"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "quarterly"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "record"}, {"lower": "number"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "spikes"}, {"lower": "in"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "spikes"}, {"lower": "in"}, {"lower": "shootings"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "statewide"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "theft"}, {"lower": "prevention"}, {"lower": "unit"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "violent"}, {"lower": "index"}, {"lower": "crimes"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "incidents"}, {"lower": "in"}, {"lower": "the"}, {"orth": "24"}, {"orth": "-"}, {"lower": "hour"}, {"lower": "period"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "ovi"}, {"orth": "-"}, {"lower": "related"}, {"lower": "crashes"}, {"lower": "last"}, {"lower": "year"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "foid"}, {"lower": "card"}, {"lower": "applications"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "uvalde"}, {"lower": "highlights"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "uvalde"}, {"lower": "shooting"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "uvalde"}, {"lower": "slaughter"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "anti"}, {"lower": "gun"}, {"lower": "zealots"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "anti"}, {"orth": "-"}, {"lower": "gun"}, {"lower": "groups"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "anti"}, {"orth": "-"}, {"lower": "gun"}, {"lower": "zealots"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "assault"}, {"lower": "weapon"}, {"lower": "ban"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "assault"}, {"lower": "weapons"}, {"lower": "ban"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "concealed"}, {"lower": "carry"}, {"lower": "of"}, {"lower": "a"}, {"lower": "firearmgun"}, {"lower": "free"}, {"lower": "zones"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "concealed"}, {"lower": "carry"}, {"lower": "permit"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "gun"}, {"lower": "bill"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "gun"}, {"lower": "control"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "gun"}, {"lower": "control"}, {"lower": "advocates"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "gun"}, {"lower": "control"}, {"lower": "laws"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "gun"}, {"lower": "haters"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "gun"}, {"lower": "laws"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "gun"}, {"lower": "measures"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "gun"}, {"lower": "owners"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "gun"}, {"lower": "ownership"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "gun"}, {"lower": "policy"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "gun"}, {"lower": "policy"}, {"lower": "measures"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "gun"}, {"lower": "related"}, {"lower": "restrictions"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "gun"}, {"lower": "restrictions"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "gun"}, {"lower": "sales"}, {"lower": "went"}, {"lower": "through"}, {"lower": "the"}, {"lower": "roof"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "gun"}, {"orth": "-"}, {"lower": "free"}, {"lower": "zones"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "gun"}, {"orth": "-"}, {"lower": "related"}, {"lower": "restrictions"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "law"}, {"lower": "for"}, {"lower": "concealed"}, {"lower": "carry"}, {"lower": "of"}, {"lower": "a"}, {"lower": "firearm"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "million"}, {"lower": "guns"}, {"lower": "sold"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "regarding"}, {"lower": "foid"}, {"lower": "card"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "relationship"}, {"lower": "between"}, {"lower": "state"}, {"lower": "gun"}, {"lower": "ownership"}, {"lower": "rates"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "requirements"}, {"lower": "for"}, {"lower": "carrying"}, {"lower": "a"}, {"lower": "handgun"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "restrict"}, {"lower": "guns"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "semi"}, {"orth": "-"}, {"lower": "automatic"}, {"lower": "weapon"}, {"lower": "ban"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "signed"}, {"lower": "a"}, {"lower": "new"}, {"lower": "gun"}, {"lower": "bill"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "stockpiling"}, {"lower": "weapons"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "suspicious"}, {"lower": "weapons"}, {"lower": "sales"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "tracking"}, {"lower": "gun"}, {"lower": "sales"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "tracking"}, {"lower": "large"}, {"orth": "-"}, {"lower": "scale"}, {"lower": "firearms"}, {"lower": "purchases"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "abortion"}, {"lower": "advocates"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "abortion"}, {"lower": "ban"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "abortion"}, {"lower": "decision"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "abortion"}, {"lower": "disclosure"}, {"lower": "form"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "abortion"}, {"lower": "disclosure"}, {"lower": "forms"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "abortion"}, {"lower": "law"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "exceptions"}, {"lower": "for"}, {"lower": "instances"}, {"lower": "of"}, {"lower": "rape"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "pro"}, {"orth": "-"}, {"lower": "abortion"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "pro"}, {"orth": "-"}, {"lower": "abortion"}, {"lower": "group"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "pro"}, {"orth": "-"}, {"lower": "abortion"}, {"lower": "propaganda"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "pro"}, {"orth": "-"}, {"lower": "life"}, {"lower": "activist"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "pro"}, {"orth": "-"}, {"lower": "life"}, {"lower": "laws"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "provided"}, {"lower": "an"}, {"lower": "abortion"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "state"}, {"lower": "records"}, {"lower": "provided"}, {"lower": "an"}, {"lower": "abortion"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "state"}, {"orth": "'s"}, {"lower": "new"}, {"lower": "abortion"}, {"lower": "law"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "state"}, {"lower": "new"}, {"lower": "abortion"}, {"lower": "law"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "state"}, {"lower": "abortion"}, {"lower": "law"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "amendment"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "biden"}, {"lower": "administration"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "democrat"}, {"lower": "opponent"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "democratic"}, {"lower": "senator"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "donald"}, {"lower": "trump"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "gdp"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"orth": "gov."}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "president"}, {"lower": "donald"}, {"lower": "trump"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "president"}, {"lower": "joe"}, {"lower": "biden"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "republican"}, {"lower": "party"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "republican"}, {"lower": "senate"}, {"lower": "candidate"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "us"}, {"lower": "senators"}, {"lower": "are"}, {"lower": "asking"}, {"lower": "president"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "constitution"}, {"lower": "specifies"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "constitution"}, {"lower": "was"}, {"lower": "adopted"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "constitutional"}, {"lower": "convention"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "gross"}, {"lower": "domestic"}, {"lower": "product"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "lawmakers"}, {"lower": "in"}, {"lower": "congress"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "law"}, {"lower": "aimed"}, {"lower": "at"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "law"}, {"lower": "aimed"}, {"lower": "at"}, {"lower": "cracking"}, {"lower": "down"}, {"lower": "on"}, {"lower": "violent"}, {"lower": "protests"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "legislation"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "legislation"}, {"lower": "would"}, {"lower": "limit"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "legislature"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "municipal"}, {"lower": "elections"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "political"}, {"lower": "weapon"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "property"}, {"lower": "crimes"}, {"lower": "bill"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "signed"}, {"lower": "house"}, {"lower": "bill"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "signed"}, {"lower": "a"}, {"lower": "bill"}, {"lower": "into"}, {"lower": "law"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "signed"}, {"lower": "the"}, {"lower": "bill"}, {"lower": "into"}, {"lower": "law"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "sponsored"}, {"lower": "in"}, {"lower": "the"}, {"lower": "state"}, {"lower": "senate"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "steps"}, {"lower": "to"}, {"lower": "stabilise"}, {"lower": "economy"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "stronger"}, {"lower": "penalties"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "stronger"}, {"lower": "penalty"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "this"}, {"lower": "year"}, {"orth": "'s"}, {"lower": "election"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "threats"}, {"lower": "to"}, {"lower": "public"}, {"lower": "health"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "voting"}, {"lower": "laws"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "voting"}, {"lower": "rights"}, {"lower": "restored"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "special"}, {"lower": "election"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "vacant"}, {"lower": "city"}, {"lower": "council"}, {"lower": "seats"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "election"}, {"lower": "was"}, {"lower": "done"}, {"lower": "by"}, {"lower": "hand"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "christian"}, {"lower": "nationalism"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "racist"}, {"lower": "ideology"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "anti"}, {"orth": "-"}, {"lower": "transgender"}, {"lower": "healthcare"}, {"lower": "protesters"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "anti"}, {"orth": "-"}, {"lower": "transgender"}, {"lower": "protesters"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "firefighters"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "blaze"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "brush"}, {"lower": "fire"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "brush"}, {"lower": "fire"}, {"lower": "off"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "destructive"}, {"lower": "wildfire"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "fire"}, {"lower": "broke"}, {"lower": "out"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "firefighters"}, {"lower": "battled"}, {"lower": "the"}, {"lower": "fire"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "firefighters"}, {"lower": "stop"}, {"lower": "the"}, {"lower": "spread"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "mopping"}, {"lower": "up"}, {"lower": "a"}, {"lower": "burn"}, {"lower": "area"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "wildfire"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "wildland"}, {"lower": "fire"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "dc"}, {"lower": "comics"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "film"}, {"lower": "festival"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "focused"}, {"lower": "completely"}, {"lower": "on"}, {"lower": "real"}, {"lower": "events"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "jeffrey"}, {"lower": "dahmer"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "netflix"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "netflix"}, {"orth": "'s"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "vogue"}, {"lower": "article"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "actor"}, {"lower": "was"}, {"lower": "shooting"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "album"}, {"lower": "of"}, {"lower": "songs"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "anime"}, {"lower": "series"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "at"}, {"lower": "the"}, {"lower": "premiere"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "based"}, {"lower": "on"}, {"lower": "real"}, {"lower": "events"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "debut"}, {"lower": "film"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "horror"}, {"lower": "film"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "docuseries"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "film"}, {"lower": "revolves"}, {"lower": "around"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "first"}, {"lower": "premiered"}, {"lower": "in"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "hit"}, {"lower": "the"}, {"lower": "full"}, {"lower": "interview"}, {"lower": "above"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "live"}, {"lower": "shot"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "rehearsal"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "scene"}, {"lower": "had"}, {"lower": "to"}, {"lower": "be"}, {"lower": "shot"}, {"lower": "with"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "science"}, {"orth": "-"}, {"lower": "fiction"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "shooting"}, {"lower": "for"}, {"lower": "film"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "shooting"}, {"lower": "for"}, {"lower": "her"}, {"lower": "hollywood"}, {"lower": "debut"}, {"lower": "film"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "star"}, {"lower": "as"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "star"}, {"lower": "in"}, {"lower": "film"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "star"}, {"lower": "in"}, {"lower": "the"}, {"lower": "film"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "starred"}, {"lower": "in"}, {"lower": "film"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "starred"}, {"lower": "in"}, {"lower": "the"}, {"lower": "film"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "starring"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "stole"}, {"lower": "the"}, {"lower": "show"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "stole"}, {"lower": "the"}, {"lower": "show"}, {"lower": "at"}, {"lower": "the"}, {"lower": "premiere"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "streaming"}, {"lower": "service"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "tops"}, {"lower": "chart"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "tops"}, {"lower": "the"}, {"lower": "netflix"}, {"lower": "chart"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "tops"}, {"lower": "the"}, {"lower": "chart"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "trailers"}, {"lower": "for"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "mostly"}, {"lower": "clear"}, {"lower": "and"}, {"lower": "cool"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "mostly"}, {"lower": "clear"}, {"lower": "and"}, {"lower": "cool"}, {"lower": "with"}, {"lower": "lows"}, {"lower": "falling"}, {"lower": "into"}, {"lower": "the"}, {"lower": "lower"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "mostly"}, {"lower": "sunny"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "mostly"}, {"lower": "sunny"}, {"lower": "with"}, {"lower": "increasing"}, {"lower": "clouds"}, {"lower": "by"}, {"lower": "late"}, {"lower": "afternoon"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "increasing"}, {"lower": "clouds"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "possibility"}, {"lower": "of"}, {"lower": "a"}, {"lower": "tornado"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "severe"}, {"lower": "weather"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "severe"}, {"lower": "winds"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "storm"}, {"lower": "survey"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "storm"}, {"lower": "tracking"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "tornado"}, {"lower": "warning"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "tornado"}, {"lower": "warnings"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "tornado"}, {"lower": "warnings"}, {"lower": "expired"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "tracking"}, {"lower": "a"}, {"lower": "chance"}, {"lower": "of"}, {"lower": "storms"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "tracking"}, {"lower": "closures"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "tracking"}, {"lower": "low"}, {"lower": "pressure"}, {"lower": "to"}, {"lower": "our"}, {"lower": "east"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "weekend"}, {"lower": "starts"}, {"lower": "off"}, {"lower": "warm"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"orth": "covid-19"}, {"lower": "booster"}, {"lower": "shots"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"orth": "covid-19"}, {"lower": "shots"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"orth": "covid-19"}, {"lower": "struck"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"orth": "covid-19"}, {"lower": "vaccines"}, {"lower": "for"}, {"lower": "children"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "covid"}, {"lower": "vaccines"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "pfizer"}, {"lower": "shot"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "pfizer"}, {"lower": "shots"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "eligible"}, {"lower": "for"}, {"lower": "the"}, {"lower": "shots"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "offering"}, {"lower": "shots"}, {"lower": "to"}, {"lower": "children"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "shots"}, {"lower": "for"}, {"lower": "those"}, {"lower": "under"}, {"lower": "five"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "shots"}, {"lower": "for"}, {"lower": "under"}, {"lower": "five"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "shots"}, {"lower": "from"}, {"lower": "moderna"}, {"lower": "and"}, {"lower": "pfizer"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "tracking"}, {"orth": "covid-19"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "vaccine"}, {"lower": "is"}, {"lower": "safe"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"orth": "9/11"}, {"lower": "attacks"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"orth": "9/11"}, {"lower": "videos"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "all"}, {"lower": "fireworks"}, {"lower": "are"}, {"lower": "illegal"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "coalition"}, {"lower": "against"}, {"lower": "sexual"}, {"lower": "assault"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "department"}, {"lower": "of"}, {"lower": "transportation"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "ground"}, {"lower": "zero"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "peta"}, {"lower": "supporters"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "september"}, {"orth": "11th"}, {"orth": ","}, {"orth": "2001"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "today"}, {"lower": "we"}, {"lower": "solemnly"}, {"lower": "remember"}, {"lower": "the"}, {"lower": "lives"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "active"}, {"lower": "shooter"}, {"lower": "training"}, {"lower": "session"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "army"}, {"lower": "closed"}, {"lower": "areas"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "attacked"}, {"lower": "by"}, {"lower": "a"}, {"lower": "large"}, {"lower": "shark"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "carrying"}, {"lower": "his"}, {"lower": "squad"}, {"lower": "to"}, {"lower": "victory"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "coins"}, {"lower": "struck"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "cut"}, {"lower": "pharmacy"}, {"lower": "robberies"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "fight"}, {"lower": "for"}, {"lower": "a"}, {"lower": "livable"}, {"lower": "wage"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "fireworks"}, {"lower": "use"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "flag"}, {"lower": "known"}, {"lower": "patterns"}, {"lower": "of"}, {"lower": "suspicious"}, {"lower": "activity"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "go"}, {"lower": "up"}, {"lower": "against"}, {"lower": "in"}, {"lower": "the"}, {"lower": "upper"}, {"lower": "bracket"}, {"lower": "final"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "guide"}, {"lower": "for"}, {"lower": "combating"}, {"lower": "bullying"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "hit"}, {"lower": "match"}, {"lower": "point"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "honors"}, {"lower": "a"}, {"lower": "fallen"}, {"lower": "officer"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "honors"}, {"lower": "officer"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "injured"}, {"lower": "in"}, {"lower": "a"}, {"lower": "shark"}, {"lower": "attack"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "intrusion"}, {"lower": "plates"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "irrigation"}, {"lower": "efforts"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "month"}, {"lower": "investigation"}, {"lower": "of"}, {"lower": "the"}, {"lower": "case"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "mourned"}, {"lower": "the"}, {"lower": "victims"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "non"}, {"orth": "-"}, {"lower": "emergency"}, {"lower": "lockdown"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "radio"}, {"lower": "tracking"}, {"lower": "collar"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "right"}, {"lower": "to"}, {"lower": "form"}, {"lower": "a"}, {"lower": "union"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "safer"}, {"lower": "working"}, {"lower": "conditions"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "steel"}, {"lower": "intrusion"}, {"lower": "plates"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "struck"}, {"lower": "a"}, {"lower": "panic"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "struck"}, {"lower": "panic"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "time"}, {"lower": "delay"}, {"lower": "safes"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "turned"}, {"lower": "to"}, {"lower": "drugs"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "twin"}, {"lower": "towers"}, {"lower": "in"}, {"lower": "new"}, {"lower": "york"}, {"lower": "city"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "upper"}, {"lower": "bracket"}, {"lower": "final"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "victims"}, {"lower": "and"}, {"lower": "heroes"}, {"lower": "of"}, {"lower": "the"}, {"orth": "9/11"}, {"lower": "terrorist"}, {"lower": "attacks"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "winning"}, {"lower": "a"}, {"lower": "round"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "found"}, {"lower": "dead"}, {"lower": "in"}, {"lower": "his"}, {"lower": "cell"}]}
+{"label": "NOT_RELEVANT", "pattern": [{"lower": "years"}, {"lower": "since"}, {"lower": "the"}, {"lower": "attack"}]}

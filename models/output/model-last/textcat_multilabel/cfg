@@ -1,0 +1,11 @@
+{
+  "labels":[
+    "ASSAULT",
+    "AUTO_THEFT",
+    "HARASSMENT",
+    "HOMICIDE",
+    "ROBBERY",
+    "THEFT"
+  ],
+  "threshold":0.5
+}

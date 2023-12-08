@@ -1,0 +1,104 @@
+{"label": "RELEVANT", "pattern": [{"lower": "theft"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "theft"}, {"lower": "from"}, {"lower": "person"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "theft"}, {"lower": "from"}, {"lower": "motor"}, {"lower": "vehicle"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "theft"}, {"lower": "report"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "theft"}, {"lower": "investigation"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "burglary"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "burglaries"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "burglar"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "burglary"}, {"lower": "alarm"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "alarm"}, {"lower": "burglary"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "steal"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stole"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "stealing"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "shoplifting"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "shop"}, {"orth": "-"}, {"lower": "lifting"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "shoplift"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "shoplifted"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "larnecy"}, {"lower": "shoplifting"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "larceny"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "larnecy"}, {"lower": "from"}, {"lower": "motor"}, {"lower": "vehiclepocket"}, {"orth": "-"}, {"lower": "picking"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "pickpocketing"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "pickpocket"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "obtaining"}, {"lower": "a"}, {"lower": "service"}, {"lower": "without"}, {"lower": "payment"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "obtained"}, {"lower": "a"}, {"lower": "service"}, {"lower": "without"}, {"lower": "payment"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "making"}, {"lower": "off"}, {"lower": "from"}, {"lower": "a"}, {"lower": "hotel"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "made"}, {"lower": "off"}, {"lower": "from"}, {"lower": "a"}, {"lower": "hotel"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "restaurant"}, {"lower": "without"}, {"lower": "payment"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "bar"}, {"lower": "without"}, {"lower": "payment"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "injured"}, {"lower": "in"}, {"lower": "a"}, {"lower": "shark"}, {"lower": "attack"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "radio"}, {"lower": "tracking"}, {"lower": "collar"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "coins"}, {"lower": "struck"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "struck"}, {"lower": "a"}, {"lower": "panic"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "struck"}, {"lower": "panic"}]}
+{"label": "RELEVANT", "pattern": [{"orth": "9/11"}, {"lower": "videos"}]}
+{"label": "RELEVANT", "pattern": [{"orth": "9/11"}, {"lower": "attacks"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "army"}, {"lower": "closed"}, {"lower": "areas"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "honors"}, {"lower": "a"}, {"lower": "fallen"}, {"lower": "officer"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "honors"}, {"lower": "officer"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "irrigation"}, {"lower": "efforts"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "turned"}, {"lower": "to"}, {"lower": "drugs"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "steel"}, {"lower": "intrusion"}, {"lower": "plates"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "intrusion"}, {"lower": "plates"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "attacked"}, {"lower": "by"}, {"lower": "a"}, {"lower": "large"}, {"lower": "shark"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "flag"}, {"lower": "known"}, {"lower": "patterns"}, {"lower": "of"}, {"lower": "suspicious"}, {"lower": "activity"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "month"}, {"lower": "investigation"}, {"lower": "of"}, {"lower": "the"}, {"lower": "case"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "non"}, {"orth": "-"}, {"lower": "emergency"}, {"lower": "lockdown"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "victims"}, {"lower": "and"}, {"lower": "heroes"}, {"lower": "of"}, {"lower": "the"}, {"orth": "9/11"}, {"lower": "terrorist"}, {"lower": "attacks"}]}
+{"label": "RELEVANT", "pattern": [{"orth": "9/11"}, {"lower": "attacks"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "cut"}, {"lower": "pharmacy"}, {"lower": "robberies"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "time"}, {"lower": "delay"}, {"lower": "safes"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "coalition"}, {"lower": "against"}, {"lower": "sexual"}, {"lower": "assault"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "guide"}, {"lower": "for"}, {"lower": "combating"}, {"lower": "bullying"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "twin"}, {"lower": "towers"}, {"lower": "in"}, {"lower": "new"}, {"lower": "york"}, {"lower": "city"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "september"}, {"orth": "11th"}, {"orth": ","}, {"orth": "2001"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "go"}, {"lower": "up"}, {"lower": "against"}, {"lower": "in"}, {"lower": "the"}, {"lower": "upper"}, {"lower": "bracket"}, {"lower": "final"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "upper"}, {"lower": "bracket"}, {"lower": "final"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "carrying"}, {"lower": "his"}, {"lower": "squad"}, {"lower": "to"}, {"lower": "victory"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "winning"}, {"lower": "a"}, {"lower": "round"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "hit"}, {"lower": "match"}, {"lower": "point"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "peta"}, {"lower": "supporters"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "today"}, {"lower": "we"}, {"lower": "solemnly"}, {"lower": "remember"}, {"lower": "the"}, {"lower": "lives"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "ground"}, {"lower": "zero"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "mourned"}, {"lower": "the"}, {"lower": "victims"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "fight"}, {"lower": "for"}, {"lower": "a"}, {"lower": "livable"}, {"lower": "wage"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "safer"}, {"lower": "working"}, {"lower": "conditions"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "right"}, {"lower": "to"}, {"lower": "form"}, {"lower": "a"}, {"lower": "union"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "active"}, {"lower": "shooter"}, {"lower": "training"}, {"lower": "session"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "all"}, {"lower": "fireworks"}, {"lower": "are"}, {"lower": "illegal"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "fireworks"}, {"lower": "use"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "department"}, {"lower": "of"}, {"lower": "transportation"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "project"}, {"lower": "was"}, {"lower": "compiled"}, {"lower": "into"}, {"lower": "a"}, {"lower": "book"}, {"lower": "titled"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "amoeba"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "gored"}, {"lower": "by"}, {"lower": "a"}, {"lower": "bison"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "offering"}, {"lower": "their"}, {"lower": "condolences"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "rest"}, {"lower": "in"}, {"lower": "peace"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "in"}, {"lower": "our"}, {"lower": "thoughts"}, {"lower": "and"}, {"lower": "prayers"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "ufc"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "years"}, {"lower": "since"}, {"lower": "the"}, {"lower": "attack"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "flowers"}, {"lower": "and"}, {"lower": "a"}, {"lower": "message"}, {"lower": "left"}, {"lower": "in"}, {"lower": "memory"}, {"lower": "of"}, {"lower": "the"}, {"lower": "victims"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "in"}, {"lower": "memory"}, {"lower": "of"}, {"lower": "the"}, {"lower": "victims"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "realistic"}, {"lower": "combat"}, {"lower": "scenarios"}, {"lower": "for"}, {"lower": "pilots"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "advanced"}, {"lower": "aerial"}, {"lower": "tactics"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "air"}, {"lower": "combat"}, {"lower": "training"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "on"}, {"lower": "this"}, {"lower": "day"}, {"lower": "in"}, {"lower": "history"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "september"}, {"orth": "11"}, {"orth": ","}, {"orth": "2001"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "prevent"}, {"lower": "fake"}, {"lower": "reports"}, {"lower": "of"}, {"lower": "emergencies"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "shots"}, {"lower": "fired"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "possession"}, {"lower": "weapons"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "armed"}, {"lower": "person"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "weapons"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "sound"}, {"lower": "gunshots"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "shots"}, {"lower": "heard"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "weapon"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "discharging"}, {"lower": "firearm"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "shooting"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "weapon"}, {"lower": "law"}, {"lower": "violations"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "shotspotter"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "shots"}, {"lower": "fire"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "brandishing"}, {"lower": "weapon"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "illegally"}, {"lower": "possessed"}, {"lower": "assault"}, {"lower": "rifle"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "illegally"}, {"lower": "possessed"}, {"lower": "rifle"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "illegally"}, {"lower": "possessed"}, {"lower": "gun"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "firearm"}, {"orth": "'s"}, {"lower": "serial"}, {"lower": "number"}, {"lower": "was"}, {"lower": "obliterated"}]}
+{"label": "RELEVANT", "pattern": [{"lower": "serial"}, {"lower": "number"}, {"lower": "was"}, {"lower": "obliterated"}]}
